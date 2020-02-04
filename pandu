@@ -1,4 +1,8 @@
 hello world
+<<<<<<< HEAD
 git branch
 git status
-
+git rebase branch name
+git rebase master1
+git status
+git logs
